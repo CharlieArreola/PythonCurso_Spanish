@@ -11,10 +11,10 @@ A lo largo del curso cuando haya que dejar en claro algun consejo ocuparemos est
 <kbd>Conejo:</kbd> Aqui va venir tu consejo dado por el conejo para que tomes nota.
 </div>
 <hr/>
-<p>                                     
+                                  
             \\
              \\_
           .---(')
         o( )_-\_
 
-</p>
+
